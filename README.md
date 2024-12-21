@@ -62,10 +62,6 @@ One of the challenges faced during this project was configuring Amazon Lex to ha
 - **Amazon CloudWatch** - For logging and monitoring.
 - **Amazon Polly** - For voice support (optional).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to AWS for providing the tools to create this chatbot.
